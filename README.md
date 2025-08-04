@@ -3,7 +3,7 @@
 **Internship Provider:** Oasis Infobyte  
 **Level:** 2  
 **Total Tasks:** 4  
-**Intern Name:** [Your Name Here]
+**Intern Name:** Rutvik Jathar
 
 ---
 
